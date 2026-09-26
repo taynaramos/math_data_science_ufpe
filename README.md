@@ -23,3 +23,5 @@ Inicialmente, foi realizado um teste utilizando apenas 2 neurônios na camada oc
 | **Acurácia Final (Manual)** | 91% (`acc 91`) | 87% (`acc 87`) |
 | **Acurácia Keras** | 91% (`accuracy: 0.9100`) | 89% (`accuracy: 0.8900`) |
 | **Loss Keras** | 0.0710 | 0.0797 |
+
+Para acessar no google colab acesse o [link](https://colab.research.google.com/drive/1PEpZmuJtYT_lPrADBDv3IpZWPM2CvDM7?usp=sharing) 
